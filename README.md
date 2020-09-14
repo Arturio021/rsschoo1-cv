@@ -1,1 +1,1 @@
-https://Arturio021.github.io/rsschoo1-cv/cv
+https://github.com/Arturio021/rsschoo1-cv/blob/gh-pages/cv.md
